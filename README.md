@@ -6,6 +6,7 @@ Nos fiches de lecture pour évaluation des articles. Contribuez à ce repository
 |--------------|-----------------------------------------------------------------------------------|
 | Basile Pesin | [The Metalanguage λProlog and Its Implementation, Nadathur](basile/Nadathur01.md)<br>[Prototyping a Functional Language using Higher-Order Logic Programming: A Functional Pearl on Learning the Ways of λProlog/Makam, Stampoulis et Chlipala](basile/Stampoulis18.md)             |
 | David Sreng | [Implémentation d’un langage de programmation logique d’ordre supérieur avec MALI (1989 - Pascal Brisset)](david/Brisset.md) <br> [ELPI: fast, Embeddable, λProlog Interpreter (2015 - Cvetan Dunchev, Ferruccio Guidi, Claudio Sacerdoti Coen, Enrico Tassi)](david/Elpi.md) |
+| Matthieu Eyraud | [An overview of Lambda-PROLOG, Nadathur, Gopalan and Miller, Dale] (Matthieu/overview.pdf) <br>  [System description: Teyjus—A compiler and abstract machine based implementation of Lambda-Prolog, Nadathur, Gopalan and Mitchell, Dustin J] (Matthieu/teyjus.pdf)
 
 ## LICENSE
 
