@@ -16,7 +16,7 @@ On présente ensuite la récursion structurelle, une fonctionnalité de Makam pe
 
 ## Contexte scientifique
 
-L'article s'appuie sur les travaux de [Milner78] sur le polymorphisme, mais surtout sur les travaux portant sur λProlog ([Nadathur88], [Nadathur99] à propos de Teyjus). Le tutoriel fait aussi évidemment référence à l'implémentation de Makam (Stampoulis, 2012).
+L'article s'appuie sur les travaux de [Milner78](https://www.sciencedirect.com/science/article/pii/0022000078900144) sur le polymorphisme, mais surtout sur les travaux portant sur λProlog ([Nadathur88](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1627&context=cis_reports), [Nadathur99](https://www-users.cs.umn.edu/~ngopalan/papers/teyjus.pdf) à propos de Teyjus). Le tutoriel fait aussi évidemment référence à [l'implémentation de Makam](https://github.com/astampoulis/makam).
 
 ## Pertinence
 

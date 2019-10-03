@@ -14,8 +14,8 @@ Enfin, l'article introduit le compilateur Teyjus, implémenté à partir de ces 
 
 ## Contexte scientifique
 
-L'article s'inspire des travaux réalisés sur l'unification d'ordre supérieure ([Huet75]), ainsi que de travaux précédents de l'auteur, ainsi que de D.Miller sur λProlog ([Miller92], [Nadathur98], ...). De plus, le compilateur Teyjus réalisé peu auparavant a également fait l'objet de publications ([Nadathur99]).
-L'auteur a continué ses travaux après la publication de cet article, avec en particulier le livre Programming with Higher-Order Logic (2012), qui utilise le langage (et son compilateur Teyjus) pour illustrer ses concepts liés à la logique et au λ-calcul. Les contributions de l'article sont également observées dans [Momigliano10].
+L'article s'inspire des travaux réalisés sur l'unification d'ordre supérieure ([Huet75](https://www.sciencedirect.com/science/article/pii/0304397575900110)), ainsi que de travaux précédents de l'auteur, ainsi que de D.Miller et P.Brisset sur λProlog ([Brisset92](https://core.ac.uk/download/pdf/48274184.pdf), [Nadathur98](https://www.researchgate.net/publication/2659222_An_Explicit_Substitution_Notation_in_a_lamdaProlog_Implementation), ...). De plus, le compilateur Teyjus réalisé peu auparavant a également fait l'objet de publications ([Nadathur99](https://www-users.cs.umn.edu/~ngopalan/papers/teyjus.pdf)).
+L'auteur a continué ses travaux après la publication de cet article, avec en particulier le livre [Programming with Higher-Order Logic](https://sites.google.com/site/proghol/), qui utilise le langage (et son compilateur Teyjus) pour illustrer ses concepts liés à la logique et au λ-calcul. Les contributions de l'article sont également observées dans [Momigliano10](https://link.springer.com/chapter/10.1007%2F978-3-642-14309-0_12/).
 
 ## Pertinence
 
