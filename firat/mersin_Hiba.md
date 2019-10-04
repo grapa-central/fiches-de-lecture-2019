@@ -16,7 +16,7 @@ n nœuds et les mots de Dyck contenant n lettres x et (n-1) lettres y.
 (Un algorithme qui génère un arbre en fonction d'un nombre aléatoire de nœuds dans un intervalle
 donné est présenté dans Generating Random Trees for Genetic Programming de H. Iba.)
 
-Pertinence : Les résultats expérimentaux présentés dans l'article montrent que les algorithmes
+Pertinence : Cet article me semble très pertinent car les résultats expérimentaux présentés dans l'article montrent que les algorithmes
 génèrent uniformément les différents arbres (en fonction de la profondeur ou bien du nombre de
 nœuds).
 
