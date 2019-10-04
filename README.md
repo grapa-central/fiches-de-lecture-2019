@@ -10,6 +10,8 @@ Nos fiches de lecture pour évaluation des articles. Contribuez à ce repository
 | David Sreng | [Implémentation d’un langage de programmation logique d’ordre supérieur avec MALI (1989 - Pascal Brisset)](david/Brisset.md) <br> [ELPI: fast, Embeddable, λProlog Interpreter (2015 - Cvetan Dunchev, Ferruccio Guidi, Claudio Sacerdoti Coen, Enrico Tassi)](david/Elpi.md) |
 | Matthieu Eyraud | [An overview of Lambda-PROLOG, Nadathur, Gopalan and Miller, Dale](Matthieu/overview.pdf) <br>  [System description: Teyjus—A compiler and abstract machine based implementation of Lambda-Prolog, Nadathur, Gopalan and Mitchell, Dustin J](Matthieu/teyjus.pdf)
 | Alexis Baudin | [The Metalanguage λProlog and Its Implementation, Nadathur](alexis/lambdaprolog.pdf)<br>[Explicit Substitutions in the Reduction of Lambda Terms, Nadathur, Qi](alexis/substitution.pdf)             |
+| Katia AMICHI | [Uniform random generation of decomposable structures using floating-point arithmetic](RandomGen/FicheDeLectureUniformRandomGeneration.pdf)<br>[CS: a MuPAD Package for Counting and Randomly Generating Combinatorial Structures](RandomGen/FicheDelectureCSaMuPAD.pdf)             |
+
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
