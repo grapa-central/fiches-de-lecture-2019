@@ -5,6 +5,7 @@ Nos fiches de lecture pour évaluation des articles. Contribuez à ce repository
 | Etudiant     | Fiches                                                                            |
 |--------------|-----------------------------------------------------------------------------------|
 | Basile Pesin | [The Metalanguage λProlog and Its Implementation, Nadathur](basile/Nadathur01.md)<br>[Prototyping a Functional Language using Higher-Order Logic Programming: A Functional Pearl on Learning the Ways of λProlog/Makam, Stampoulis et Chlipala](basile/Stampoulis18.md)             |
+| Hector Suzanne | [A unification algorithm for typed λ-calculus, Huet](hector/Huet74.md)<br>[Unification of Simply Typed Lambda-Terms as Logic Programming](hector/Miller91.md) |                                                                                                       
 
 ## LICENSE
 
