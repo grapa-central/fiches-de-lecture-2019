@@ -11,6 +11,7 @@ Nos fiches de lecture pour évaluation des articles. Contribuez à ce repository
 | Matthieu Eyraud | [An overview of Lambda-PROLOG, Nadathur, Gopalan and Miller, Dale](Matthieu/overview.pdf) <br>  [System description: Teyjus—A compiler and abstract machine based implementation of Lambda-Prolog, Nadathur, Gopalan and Mitchell, Dustin J](Matthieu/teyjus.pdf)
 | Alexis Baudin | [The Metalanguage λProlog and Its Implementation, Nadathur](alexis/lambdaprolog.pdf)<br>[Explicit Substitutions in the Reduction of Lambda Terms, Nadathur, Qi](alexis/substitution.pdf)             |
 |Fatemeh Hamissi | [A calculus for the random generation of labelled combinatorial structures ](fatemeh/Flajolet.md)<br>[Object grammars and random generation](basile/Fedou.md)
+|Firat Mersin | [Controlled non-uniform random generation of decomposable structures](firat/mersin_DPT.md)<br>[Random Tree Generation for Genetic Programming](firat/mersin_Hiba.md)
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
