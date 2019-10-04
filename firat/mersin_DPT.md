@@ -18,6 +18,6 @@ différentes ou égales. Un atome étant un objet de taille 1 d'une structure do
 La génération reste uniforme en ce point : si K structures possèdent la même distribution alors on
 génère chacune de ces structures avec une probabilité de 1/K.
 
-Pertinence : L'article présente différents exemples détaillés ainsi que des preuves pour les
+Pertinence : Cet article me semble pertinent car il présente différents exemples détaillés ainsi que des preuves pour les
 différentes propositions. 
 
