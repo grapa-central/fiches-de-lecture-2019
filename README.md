@@ -13,6 +13,7 @@ Nos fiches de lecture pour évaluation des articles. Contribuez à ce repository
 | Katia AMICHI | [Uniform random generation of decomposable structures using floating-point arithmetic](RandomGen/FicheDeLectureUniformRandomGeneration.pdf)<br>[CS: a MuPAD Package for Counting and Randomly Generating Combinatorial Structures](RandomGen/FicheDelectureCSaMuPAD.pdf)             |
 |Fatemeh Hamissi | [A calculus for the random generation of labelled combinatorial structures ](fatemeh/Flajolet.md)<br>[Object grammars and random generation](basile/Fedou.md)
 |Firat Mersin | [Controlled non-uniform random generation of decomposable structures](firat/mersin_DPT.md)<br>[Random Tree Generation for Genetic Programming](firat/mersin_Hiba.md)
+| Yassine HERIDA | [An experimental study of unranking algorithms](yass/test2-master/Unranking.md)<br>[A calculus for the random generation of labelled combinatorial structures](yass/test2-master/calculus93.md)             |
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
